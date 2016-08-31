@@ -35,3 +35,4 @@ To keep diaspora*  growing and improving we need all help we can get. Whether yo
 
 Found a security issue? Please disclose it responsibly. We have a team of developers listening to [security@diasporafoundation.org](mailto:security@diasporafoundation.org). The PGP fingerprint is [AB0D AB02 0FC5 D398 03AB 3CE1 6F70 243F 27AD 886A](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x6F70243F27AD886A)
 
+test
